@@ -1,4 +1,4 @@
-# Compiler Frontend
+# Compiler Construction project (7th sem)
 
 This project implements a basic compiler frontend, including **lexical analysis**, **parsing**, **semantic analysis**, and **intermediate code generation**. It demonstrates the fundamental steps of compiling a simple programming language.
 

@@ -50,8 +50,7 @@ compiler_frontend/
 ### Installation
 Clone the repository:
 ```bash
-git clone https://github.com/your-username/compiler-frontend.git
-cd compiler-frontend
+git clone https://github.com/SultanNoorudDin/Compiler-Construction-lab.git
 ```
 
 ### Usage
